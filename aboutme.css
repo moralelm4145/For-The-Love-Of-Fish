@@ -1,0 +1,110 @@
+ 
+* {
+    
+    font-family: "Times", courier, sans-serif;
+    
+}
+
+header {
+    background-color: #092327;
+    display: flex;
+}
+
+body { 
+    
+    background-color: #36454f; 
+    background-image: url(../images2/Charcoalstone.jpg);
+
+}
+
+li.one, a {
+    font-family: "Times", sans-serif;
+    font-weight: 900;
+    color: #90c237;
+    text-decoration: underline;
+}
+
+
+p {
+    
+    color: #90c237;
+    font-size: 18px;
+    text-align: center;
+     
+}
+
+li {
+    
+color: #90c237;
+    font-size: 18px;
+    text-decoration: none;
+    
+}
+
+
+h1 {
+   
+    color: #092327;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+h2, h3 {
+    
+     color: #092327;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+
+.navbar li {
+    
+    display: inline-block;
+    padding: 0px 90px;
+}
+    
+ a:hover{
+
+    color: #00a9a5;
+}
+
+footer {
+    background-color: dimgrey;
+    text-align: center;
+    
+}
+
+img.align-center {
+    
+    display: block;
+    margin: 0px auto;
+    
+}
+
+img.medium {
+    
+    width="1000px";
+    height:"600px";
+    
+}
+
+img.align-left {
+    
+    display: block;
+    margin: 0px auto;
+}
+
+img.align-right {
+    
+    display: block;
+    margin: 0px auto;
+}
+
+
+
+figcaption {
+    text-align: center;
+}
+
